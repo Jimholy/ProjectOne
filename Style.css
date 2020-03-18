@@ -1,1 +1,12 @@
+.jumbotron {
+    text-align: center;
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/15/44/lumberjack-plaid-pattern-in-red-white-and-blue-vector-20041544.jpg");
+}
 
+
+   
+
+.nav {
+    font-weight: bold;
+    border-radius: 15px;
+}
